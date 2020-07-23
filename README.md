@@ -1,0 +1,3 @@
+# mathematical_cootie
+
+As a spin-off of the original Cootie Children’s Game, the user selects a mathematical difficulty level (simple addition, subtraction, multiplication, or division).  If the user correctly answers the mathematical question, the user rolls a die.  Each number of the die corresponds to a body part of an ant that is built throughout the game.  The ant can only be built in a certain order, such as the body (number 1 of the die) always came first.  The user continues to roll the die until they obtain the body and continue building the ant.  Images of each body part were built upon one another until the ant was complete, or the user incorrectly answered three questions. How the game works and how the program is run can be found in the write-up file. 
